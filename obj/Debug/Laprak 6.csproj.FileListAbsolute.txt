@@ -1,0 +1,32 @@
+D:\Matkul\pemrograman lanjut\Laprak 6\bin\Debug\Laprak 6.exe.config
+D:\Matkul\pemrograman lanjut\Laprak 6\bin\Debug\Laprak 6.exe
+D:\Matkul\pemrograman lanjut\Laprak 6\bin\Debug\Laprak 6.pdb
+D:\Matkul\pemrograman lanjut\Laprak 6\obj\Debug\Laprak 6.csproj.AssemblyReference.cache
+D:\Matkul\pemrograman lanjut\Laprak 6\obj\Debug\Laprak 6.csproj.SuggestedBindingRedirects.cache
+D:\Matkul\pemrograman lanjut\Laprak 6\obj\Debug\MainWindow.g.cs
+D:\Matkul\pemrograman lanjut\Laprak 6\obj\Debug\App.g.cs
+D:\Matkul\pemrograman lanjut\Laprak 6\obj\Debug\Laprak 6_MarkupCompile.cache
+D:\Matkul\pemrograman lanjut\Laprak 6\obj\Debug\Laprak 6_MarkupCompile.lref
+D:\Matkul\pemrograman lanjut\Laprak 6\obj\Debug\MainWindow.baml
+D:\Matkul\pemrograman lanjut\Laprak 6\obj\Debug\Laprak 6.g.resources
+D:\Matkul\pemrograman lanjut\Laprak 6\obj\Debug\Laprak_6.Properties.Resources.resources
+D:\Matkul\pemrograman lanjut\Laprak 6\obj\Debug\Laprak 6.csproj.GenerateResource.cache
+D:\Matkul\pemrograman lanjut\Laprak 6\obj\Debug\Laprak 6.csproj.CoreCompileInputs.cache
+D:\Matkul\pemrograman lanjut\Laprak 6\obj\Debug\Laprak 6.exe
+D:\Matkul\pemrograman lanjut\Laprak 6\obj\Debug\Laprak 6.pdb
+C:\Users\MSI GAMING\Downloads\Laprak 6\Laprak 6\bin\Debug\Laprak 6.exe.config
+C:\Users\MSI GAMING\Downloads\Laprak 6\Laprak 6\bin\Debug\Laprak 6.exe
+C:\Users\MSI GAMING\Downloads\Laprak 6\Laprak 6\bin\Debug\Laprak 6.pdb
+C:\Users\MSI GAMING\Downloads\Laprak 6\Laprak 6\obj\Debug\Laprak 6.csproj.AssemblyReference.cache
+C:\Users\MSI GAMING\Downloads\Laprak 6\Laprak 6\obj\Debug\Laprak 6.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSI GAMING\Downloads\Laprak 6\Laprak 6\obj\Debug\MainWindow.g.cs
+C:\Users\MSI GAMING\Downloads\Laprak 6\Laprak 6\obj\Debug\App.g.cs
+C:\Users\MSI GAMING\Downloads\Laprak 6\Laprak 6\obj\Debug\Laprak 6_MarkupCompile.cache
+C:\Users\MSI GAMING\Downloads\Laprak 6\Laprak 6\obj\Debug\Laprak 6_MarkupCompile.lref
+C:\Users\MSI GAMING\Downloads\Laprak 6\Laprak 6\obj\Debug\MainWindow.baml
+C:\Users\MSI GAMING\Downloads\Laprak 6\Laprak 6\obj\Debug\Laprak 6.g.resources
+C:\Users\MSI GAMING\Downloads\Laprak 6\Laprak 6\obj\Debug\Laprak_6.Properties.Resources.resources
+C:\Users\MSI GAMING\Downloads\Laprak 6\Laprak 6\obj\Debug\Laprak 6.csproj.GenerateResource.cache
+C:\Users\MSI GAMING\Downloads\Laprak 6\Laprak 6\obj\Debug\Laprak 6.csproj.CoreCompileInputs.cache
+C:\Users\MSI GAMING\Downloads\Laprak 6\Laprak 6\obj\Debug\Laprak 6.exe
+C:\Users\MSI GAMING\Downloads\Laprak 6\Laprak 6\obj\Debug\Laprak 6.pdb
